@@ -1,0 +1,3 @@
+name: AnticheatManager
+version: '${project.version}'
+main: me.firephoenix.anticheatmanager.AnticheatManager
