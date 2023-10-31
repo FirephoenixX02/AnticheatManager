@@ -1,4 +1,4 @@
-package me.firephoenix.anticheatmanager.cmds.util;
+package me.firephoenix.anticheatmanager.util;
 
 import org.bukkit.Color;
 import org.bukkit.DyeColor;

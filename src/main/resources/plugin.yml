@@ -1,3 +1,14 @@
 name: AnticheatManager
-version: '${project.version}'
+version: '1.0'
 main: me.firephoenix.anticheatmanager.AnticheatManager
+commands:
+  anticheatselect:
+    description: Select an anticheat to test
+    usage: /anticheatsel <anticheat name>
+    aliases: [acsel]
+    permission: anticheatmanager.select
+  anticheatgui:
+    description: Select an anticheat to test
+    usage: /anticheatgui
+    aliases: [ acgui ]
+    permission: anticheatmanager.gui

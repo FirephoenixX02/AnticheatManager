@@ -1,0 +1,9 @@
+name-list: # List of all anticheats, please enter the exact same name as in anticheats.NAME, Max of 9 anticheats is currently supported.
+  - example
+anticheats:
+    example: # Name of the anticheat, only lowercase characters please
+      bypass-permission: inferno.bypass # Permission to bypass the anticheat
+      name: Example # Name of the anticheat but as a string, you can use lower and upper case characters!
+      version: 1.0.0 # Version of the anticheat
+      price: Free # Price (free if it's not paid)
+      material: BLAZE_POWDER # Bukkit Material for GUI, only <=1.8.8 Materials
